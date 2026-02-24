@@ -33,6 +33,7 @@ Hypothesis:
 1. Let’ s see first what is this Shamir Secret sharing:
 
 https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing
+https://apogiatzis.medium.com/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4
 
 Shamir's Secret Sharing relies on evaluating a polynomial P(x) of degree k−1 over a finite field. 
 For a threshold of k=6, the polynomial has degree 5:
