@@ -5,9 +5,8 @@
 - OSINT challenge
 - Level: Medium
 
-**Details:**
-
-In this challenge we are given an username **d3dpanda**
+**Subject:**
+We found this guy, can you investigate a bit about him ? We just have his pseudo, good luck :) His pseudo is: d3dpanda
 
 **Hypothesis:**
 
