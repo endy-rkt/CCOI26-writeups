@@ -38,7 +38,7 @@ For the stack used, we can see
 
 ![image.png](Shadow%20preview/image%203.png)
 
-For the node web app, it’s just server the web app given in the challenge
+For the node web app, it’s just serve the web app given in the challenge
 
 ![image.png](Shadow%20preview/image%204.png)
 
@@ -95,6 +95,6 @@ so these address are blocked but in the entrypoint we can see that it is accessi
 
 ![image.png](Shadow%20preview/image%2013.png)
 
-- so for are test we [http://0.0.0.0:9000/flag](http://0.0.0.0:9000/flag) to bypass this SSRF filter and eureka we have the flag
+- so for the test we ll use this hint [http://0.0.0.0:9000/flag](http://0.0.0.0:9000/flag) to bypass this SSRF filter and eureka we have the flag
 
 ![image.png](Shadow%20preview/image%2014.png)
